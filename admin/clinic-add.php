@@ -16,6 +16,7 @@ include(SELECT_HELPER);
 	<div class="page-content" id="content">
 		<?php include HEADER; ?>
 		<?php
+		$hourstmt;
 			$errName = $errContact = $errEmail = $errURL  = $errAddress = $errCity = $errState = $errZipcode = "";
 			$className = $classContact = $classEmail = $classURL = $classAddress = $classCity = $classState = $classZipcode = "";
 			

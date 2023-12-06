@@ -293,11 +293,10 @@ FOR ANIMATION
 							<img src="https://img.icons8.com/dusk/128/000000/counselor.png" alt="" title="">
 						</div>
 						<div class="desc">
-							<h4 class="mb-3">Easiest way around</h4>
+							<h4 class="mb-3">At Your Fingertips</h4>
 							<p class="paragraph">
-								One tap and a car comes directly to you. Hop in—your driver knows exactly where to go.
-								And
-								when you get there, just step out. Payment is completely seamless.
+								Open the app and search for your nearest specialist doctor , 
+								pharmacies , or pathology labs .
 							</p>
 						</div>
 					</div>
@@ -308,9 +307,9 @@ FOR ANIMATION
 						<div class="desc">
 							<h4 class="mb-3">Anywhere, anytime</h4>
 							<p class="paragraph">
-								Daily commute. Errand across town. Early morning flight. Late night drinks. Wherever
-								you’re
-								headed, count on Uber for a ride—no reservations required.
+								Get your past Health Records , at just the ease of your smartphone, 
+								and
+								Also share them with your Doctor to make checkups easier.
 							</p>
 						</div>
 					</div>
@@ -321,9 +320,8 @@ FOR ANIMATION
 						<div class="desc">
 							<h4 class="mb-3">Track Your Health</h4>
 							<p class="paragraph">
-								Economy cars at everyday prices are always available. For special occasions, no occasion
-								at
-								all, or when you just a need a bit more room, call a black car or SUV.
+								Track Your health history with the help of AI,
+								which will help you to keep track of your health.
 							</p>
 						</div>
 					</div>
@@ -390,17 +388,17 @@ FOR ANIMATION
 					<div class="carousel-item active">
 						<div class="avatar"><img
 								src="https://img.icons8.com/color/48/000000/circled-user-male-skin-type-7.png"></div>
-						<p>John Doe saved us from a web disaster.</p>
+						<p>Amazing app For your healthcare , personally Loved it .</p>
 						<div class="quote">
-							<p><strong>- Chris Fox</strong><br>CEO at Mighty Schools.</p>
+							<p><strong>- Ramesh Sharma</strong><br>Manager at HDFC </p>
 						</div>
 					</div>
 					<div class="carousel-item">
 						<div class="avatar"><img
 								src="https://img.icons8.com/color/48/000000/circled-user-female-skin-type-7.png"></div>
-						<p>No one is better than John Doe.</p>
+						<p>One of the easiest and better appointments booking app</p>
 						<div class="quote">
-							<p><strong>- Rebecca Flex</strong><br>CEO at Company.</p>
+							<p><strong>- shreys Raj</strong><br>Student at VIIT</p>
 						</div>
 					</div>
 				</div>
@@ -422,7 +420,7 @@ FOR ANIMATION
 						<img src="./assets/img/app-banner.webp" alt="" width="380px">
 					</div>
 					<div class="col-7">
-						<h1>Download the ClinicMe app</h1>
+						<h1>Download the MedDesk app</h1>
 						<p>Book appointments and health checkups;<br>Order medicines and consult doctors online</p>
 						<img src="./assets/img/google-play.png" alt="Play Button" width="180px">
 					</div>
@@ -463,7 +461,7 @@ FOR ANIMATION
 						<a class="mr-3" href=""><i class="fab fa-google"></i></a>
 						<ul>
 							<li class=""><a href="#">meddesk@gmail.com</a></li>
-							<li class=""><a href="#">(010)1234678</a></li>
+							<li class=""><a href="#">+91 8180904072</a></li>
 						</ul>
 					</div>
 				</div>
@@ -476,7 +474,7 @@ FOR ANIMATION
 						<p>&copy;
 							<script type="text/javascript">
 								document.write(new Date().getFullYear());
-							</script> med DESK Sdn Bhd
+							</script> med DESK 
 						</p>
 					</div>
 					<div class="col-6 footer-link">
